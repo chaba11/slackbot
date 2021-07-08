@@ -96,7 +96,7 @@ object CommandManager {
                     • Paquetes de café
                     • Boletos y tickets
 
-                Recordá que todo lo reciclable tiene que estar limpio, seco y compactado :recycle:!
+                *Recordá que todo lo reciclable tiene que estar limpio, seco y compactado!* :recycle:
                 """.trimIndent()
         },
         Command(
